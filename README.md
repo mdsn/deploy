@@ -2,7 +2,7 @@
 A small set of combinators to write lines of input through ssh
 
 # installation
-Run `stack build`.
+Run `stack install`.
 
 # usage
 Commands are built from lines of input to be written to the server. Use <> for
